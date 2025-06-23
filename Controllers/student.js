@@ -4,6 +4,11 @@ const STUDENTS = [
         name: "Siddhi",
         city: "Vambori"
     },
+    {
+        id: 2,
+        name: "Diya",
+        city: "Vambori"
+    },
 ];
 
 const getHealth = (req, res) => {
